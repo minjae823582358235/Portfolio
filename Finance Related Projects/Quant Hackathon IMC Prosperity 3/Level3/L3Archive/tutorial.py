@@ -1,0 +1,1 @@
+LIMIT[KELP]-abs(state.position[KELP])

@@ -1,0 +1,4837 @@
+trade_timestamp,return_100
+3500,"timestamp
+3500   NaN
+3500   NaN
+3500   NaN
+3500   NaN
+3500   NaN
+        ..
+3600   NaN
+3600   NaN
+3600   NaN
+3600   NaN
+3600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+22800,"timestamp
+22800   NaN
+22800   NaN
+22800   NaN
+22800   NaN
+22800   NaN
+         ..
+22900   NaN
+22900   NaN
+22900   NaN
+22900   NaN
+22900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+31800,"timestamp
+31800   NaN
+31800   NaN
+31800   NaN
+31800   NaN
+31800   NaN
+         ..
+31900   NaN
+31900   NaN
+31900   NaN
+31900   NaN
+31900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+36800,"timestamp
+36800   NaN
+36800   NaN
+36800   NaN
+36800   NaN
+36800   NaN
+         ..
+36900   NaN
+36900   NaN
+36900   NaN
+36900   NaN
+36900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+48300,"timestamp
+48300   NaN
+48300   NaN
+48300   NaN
+48300   NaN
+48300   NaN
+         ..
+48400   NaN
+48400   NaN
+48400   NaN
+48400   NaN
+48400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+50100,"timestamp
+50100   NaN
+50100   NaN
+50100   NaN
+50100   NaN
+50100   NaN
+         ..
+50200   NaN
+50200   NaN
+50200   NaN
+50200   NaN
+50200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+52700,"timestamp
+52700   NaN
+52700   NaN
+52700   NaN
+52700   NaN
+52700   NaN
+         ..
+52800   NaN
+52800   NaN
+52800   NaN
+52800   NaN
+52800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+56500,"timestamp
+56500   NaN
+56500   NaN
+56500   NaN
+56500   NaN
+56500   NaN
+         ..
+56600   NaN
+56600   NaN
+56600   NaN
+56600   NaN
+56600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+57000,"timestamp
+57000   NaN
+57000   NaN
+57000   NaN
+57000   NaN
+57000   NaN
+         ..
+57100   NaN
+57100   NaN
+57100   NaN
+57100   NaN
+57100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+67200,"timestamp
+67200   NaN
+67200   NaN
+67200   NaN
+67200   NaN
+67200   NaN
+         ..
+67300   NaN
+67300   NaN
+67300   NaN
+67300   NaN
+67300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+71700,"timestamp
+71700   NaN
+71700   NaN
+71700   NaN
+71700   NaN
+71700   NaN
+         ..
+71800   NaN
+71800   NaN
+71800   NaN
+71800   NaN
+71800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+76000,"timestamp
+76000   NaN
+76000   NaN
+76000   NaN
+76000   NaN
+76000   NaN
+         ..
+76100   NaN
+76100   NaN
+76100   NaN
+76100   NaN
+76100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+94000,"timestamp
+94000   NaN
+94000   NaN
+94000   NaN
+94000   NaN
+94000   NaN
+         ..
+94100   NaN
+94100   NaN
+94100   NaN
+94100   NaN
+94100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+104200,"timestamp
+104200   NaN
+104200   NaN
+104200   NaN
+104200   NaN
+104200   NaN
+          ..
+104300   NaN
+104300   NaN
+104300   NaN
+104300   NaN
+104300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+112000,"timestamp
+112000   NaN
+112000   NaN
+112000   NaN
+112000   NaN
+112000   NaN
+          ..
+112100   NaN
+112100   NaN
+112100   NaN
+112100   NaN
+112100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+113600,"timestamp
+113600   NaN
+113600   NaN
+113600   NaN
+113600   NaN
+113600   NaN
+          ..
+113700   NaN
+113700   NaN
+113700   NaN
+113700   NaN
+113700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+114500,"timestamp
+114500   NaN
+114500   NaN
+114500   NaN
+114500   NaN
+114500   NaN
+          ..
+114600   NaN
+114600   NaN
+114600   NaN
+114600   NaN
+114600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+116400,"timestamp
+116400   NaN
+116400   NaN
+116400   NaN
+116400   NaN
+116400   NaN
+          ..
+116500   NaN
+116500   NaN
+116500   NaN
+116500   NaN
+116500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+133200,"timestamp
+133200   NaN
+133200   NaN
+133200   NaN
+133200   NaN
+133200   NaN
+          ..
+133300   NaN
+133300   NaN
+133300   NaN
+133300   NaN
+133300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+134200,"timestamp
+134200   NaN
+134200   NaN
+134200   NaN
+134200   NaN
+134200   NaN
+          ..
+134300   NaN
+134300   NaN
+134300   NaN
+134300   NaN
+134300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+139700,"timestamp
+139700   NaN
+139700   NaN
+139700   NaN
+139700   NaN
+139700   NaN
+          ..
+139800   NaN
+139800   NaN
+139800   NaN
+139800   NaN
+139800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+162300,"timestamp
+162300   NaN
+162300   NaN
+162300   NaN
+162300   NaN
+162300   NaN
+          ..
+162400   NaN
+162400   NaN
+162400   NaN
+162400   NaN
+162400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+172900,"timestamp
+172900   NaN
+172900   NaN
+172900   NaN
+172900   NaN
+172900   NaN
+          ..
+173000   NaN
+173000   NaN
+173000   NaN
+173000   NaN
+173000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+179300,"timestamp
+179300   NaN
+179300   NaN
+179300   NaN
+179300   NaN
+179300   NaN
+          ..
+179400   NaN
+179400   NaN
+179400   NaN
+179400   NaN
+179400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+188400,"timestamp
+188400   NaN
+188400   NaN
+188400   NaN
+188400   NaN
+188400   NaN
+          ..
+188500   NaN
+188500   NaN
+188500   NaN
+188500   NaN
+188500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+189200,"timestamp
+189200   NaN
+189200   NaN
+189200   NaN
+189200   NaN
+189200   NaN
+          ..
+189300   NaN
+189300   NaN
+189300   NaN
+189300   NaN
+189300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+191100,"timestamp
+191100   NaN
+191100   NaN
+191100   NaN
+191100   NaN
+191100   NaN
+          ..
+191200   NaN
+191200   NaN
+191200   NaN
+191200   NaN
+191200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+195900,"timestamp
+195900   NaN
+195900   NaN
+195900   NaN
+195900   NaN
+195900   NaN
+          ..
+196000   NaN
+196000   NaN
+196000   NaN
+196000   NaN
+196000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+202600,"timestamp
+202600   NaN
+202600   NaN
+202600   NaN
+202600   NaN
+202600   NaN
+          ..
+202700   NaN
+202700   NaN
+202700   NaN
+202700   NaN
+202700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+213200,"timestamp
+213200   NaN
+213200   NaN
+213200   NaN
+213200   NaN
+213200   NaN
+          ..
+213300   NaN
+213300   NaN
+213300   NaN
+213300   NaN
+213300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+218700,"timestamp
+218700   NaN
+218700   NaN
+218700   NaN
+218700   NaN
+218700   NaN
+          ..
+218800   NaN
+218800   NaN
+218800   NaN
+218800   NaN
+218800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+218800,"timestamp
+218800   NaN
+218800   NaN
+218800   NaN
+218800   NaN
+218800   NaN
+          ..
+218900   NaN
+218900   NaN
+218900   NaN
+218900   NaN
+218900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+220900,"timestamp
+220900   NaN
+220900   NaN
+220900   NaN
+220900   NaN
+220900   NaN
+          ..
+221000   NaN
+221000   NaN
+221000   NaN
+221000   NaN
+221000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+229700,"timestamp
+229700   NaN
+229700   NaN
+229700   NaN
+229700   NaN
+229700   NaN
+          ..
+229800   NaN
+229800   NaN
+229800   NaN
+229800   NaN
+229800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+239300,"timestamp
+239300   NaN
+239300   NaN
+239300   NaN
+239300   NaN
+239300   NaN
+          ..
+239400   NaN
+239400   NaN
+239400   NaN
+239400   NaN
+239400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+239400,"timestamp
+239400   NaN
+239400   NaN
+239400   NaN
+239400   NaN
+239400   NaN
+          ..
+239500   NaN
+239500   NaN
+239500   NaN
+239500   NaN
+239500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+240800,"timestamp
+240800   NaN
+240800   NaN
+240800   NaN
+240800   NaN
+240800   NaN
+          ..
+240900   NaN
+240900   NaN
+240900   NaN
+240900   NaN
+240900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+246200,"timestamp
+246200   NaN
+246200   NaN
+246200   NaN
+246200   NaN
+246200   NaN
+          ..
+246300   NaN
+246300   NaN
+246300   NaN
+246300   NaN
+246300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+260400,"timestamp
+260400   NaN
+260400   NaN
+260400   NaN
+260400   NaN
+260400   NaN
+          ..
+260500   NaN
+260500   NaN
+260500   NaN
+260500   NaN
+260500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+267100,"timestamp
+267100   NaN
+267100   NaN
+267100   NaN
+267100   NaN
+267100   NaN
+          ..
+267200   NaN
+267200   NaN
+267200   NaN
+267200   NaN
+267200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+267800,"timestamp
+267800   NaN
+267800   NaN
+267800   NaN
+267800   NaN
+267800   NaN
+          ..
+267900   NaN
+267900   NaN
+267900   NaN
+267900   NaN
+267900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+268200,"timestamp
+268200   NaN
+268200   NaN
+268200   NaN
+268200   NaN
+268200   NaN
+          ..
+268300   NaN
+268300   NaN
+268300   NaN
+268300   NaN
+268300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+269100,"timestamp
+269100   NaN
+269100   NaN
+269100   NaN
+269100   NaN
+269100   NaN
+          ..
+269200   NaN
+269200   NaN
+269200   NaN
+269200   NaN
+269200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+271300,"timestamp
+271300   NaN
+271300   NaN
+271300   NaN
+271300   NaN
+271300   NaN
+          ..
+271400   NaN
+271400   NaN
+271400   NaN
+271400   NaN
+271400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+295100,"timestamp
+295100   NaN
+295100   NaN
+295100   NaN
+295100   NaN
+295100   NaN
+          ..
+295200   NaN
+295200   NaN
+295200   NaN
+295200   NaN
+295200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+305400,"timestamp
+305400   NaN
+305400   NaN
+305400   NaN
+305400   NaN
+305400   NaN
+          ..
+305500   NaN
+305500   NaN
+305500   NaN
+305500   NaN
+305500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+308000,"timestamp
+308000   NaN
+308000   NaN
+308000   NaN
+308000   NaN
+308000   NaN
+          ..
+308100   NaN
+308100   NaN
+308100   NaN
+308100   NaN
+308100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+309400,"timestamp
+309400   NaN
+309400   NaN
+309400   NaN
+309400   NaN
+309400   NaN
+          ..
+309500   NaN
+309500   NaN
+309500   NaN
+309500   NaN
+309500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+317100,"timestamp
+317100   NaN
+317100   NaN
+317100   NaN
+317100   NaN
+317100   NaN
+          ..
+317200   NaN
+317200   NaN
+317200   NaN
+317200   NaN
+317200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+317500,"timestamp
+317500   NaN
+317500   NaN
+317500   NaN
+317500   NaN
+317500   NaN
+          ..
+317600   NaN
+317600   NaN
+317600   NaN
+317600   NaN
+317600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+320200,"timestamp
+320200   NaN
+320200   NaN
+320200   NaN
+320200   NaN
+320200   NaN
+          ..
+320300   NaN
+320300   NaN
+320300   NaN
+320300   NaN
+320300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+322500,"timestamp
+322500   NaN
+322500   NaN
+322500   NaN
+322500   NaN
+322500   NaN
+          ..
+322600   NaN
+322600   NaN
+322600   NaN
+322600   NaN
+322600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+329000,"timestamp
+329000   NaN
+329000   NaN
+329000   NaN
+329000   NaN
+329000   NaN
+          ..
+329100   NaN
+329100   NaN
+329100   NaN
+329100   NaN
+329100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+335200,"timestamp
+335200   NaN
+335200   NaN
+335200   NaN
+335200   NaN
+335200   NaN
+          ..
+335300   NaN
+335300   NaN
+335300   NaN
+335300   NaN
+335300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+338100,"timestamp
+338100   NaN
+338100   NaN
+338100   NaN
+338100   NaN
+338100   NaN
+          ..
+338200   NaN
+338200   NaN
+338200   NaN
+338200   NaN
+338200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+345700,"timestamp
+345700   NaN
+345700   NaN
+345700   NaN
+345700   NaN
+345700   NaN
+          ..
+345800   NaN
+345800   NaN
+345800   NaN
+345800   NaN
+345800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+349900,"timestamp
+349900   NaN
+349900   NaN
+349900   NaN
+349900   NaN
+349900   NaN
+          ..
+350000   NaN
+350000   NaN
+350000   NaN
+350000   NaN
+350000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+350800,"timestamp
+350800   NaN
+350800   NaN
+350800   NaN
+350800   NaN
+350800   NaN
+          ..
+350900   NaN
+350900   NaN
+350900   NaN
+350900   NaN
+350900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+353800,"timestamp
+353800   NaN
+353800   NaN
+353800   NaN
+353800   NaN
+353800   NaN
+          ..
+353900   NaN
+353900   NaN
+353900   NaN
+353900   NaN
+353900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+354000,"timestamp
+354000   NaN
+354000   NaN
+354000   NaN
+354000   NaN
+354000   NaN
+          ..
+354100   NaN
+354100   NaN
+354100   NaN
+354100   NaN
+354100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+355500,"timestamp
+355500   NaN
+355500   NaN
+355500   NaN
+355500   NaN
+355500   NaN
+          ..
+355600   NaN
+355600   NaN
+355600   NaN
+355600   NaN
+355600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+358700,"timestamp
+358700   NaN
+358700   NaN
+358700   NaN
+358700   NaN
+358700   NaN
+          ..
+358800   NaN
+358800   NaN
+358800   NaN
+358800   NaN
+358800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+362500,"timestamp
+362500   NaN
+362500   NaN
+362500   NaN
+362500   NaN
+362500   NaN
+          ..
+362600   NaN
+362600   NaN
+362600   NaN
+362600   NaN
+362600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+371700,"timestamp
+371700   NaN
+371700   NaN
+371700   NaN
+371700   NaN
+371700   NaN
+          ..
+371800   NaN
+371800   NaN
+371800   NaN
+371800   NaN
+371800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+377400,"timestamp
+377400   NaN
+377400   NaN
+377400   NaN
+377400   NaN
+377400   NaN
+          ..
+377500   NaN
+377500   NaN
+377500   NaN
+377500   NaN
+377500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+379100,"timestamp
+379100   NaN
+379100   NaN
+379100   NaN
+379100   NaN
+379100   NaN
+          ..
+379200   NaN
+379200   NaN
+379200   NaN
+379200   NaN
+379200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+381000,"timestamp
+381000   NaN
+381000   NaN
+381000   NaN
+381000   NaN
+381000   NaN
+          ..
+381100   NaN
+381100   NaN
+381100   NaN
+381100   NaN
+381100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+385600,"timestamp
+385600   NaN
+385600   NaN
+385600   NaN
+385600   NaN
+385600   NaN
+          ..
+385700   NaN
+385700   NaN
+385700   NaN
+385700   NaN
+385700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+387100,"timestamp
+387100   NaN
+387100   NaN
+387100   NaN
+387100   NaN
+387100   NaN
+          ..
+387200   NaN
+387200   NaN
+387200   NaN
+387200   NaN
+387200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+392800,"timestamp
+392800   NaN
+392800   NaN
+392800   NaN
+392800   NaN
+392800   NaN
+          ..
+392900   NaN
+392900   NaN
+392900   NaN
+392900   NaN
+392900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+401300,"timestamp
+401300   NaN
+401300   NaN
+401300   NaN
+401300   NaN
+401300   NaN
+          ..
+401400   NaN
+401400   NaN
+401400   NaN
+401400   NaN
+401400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+414400,"timestamp
+414400   NaN
+414400   NaN
+414400   NaN
+414400   NaN
+414400   NaN
+          ..
+414500   NaN
+414500   NaN
+414500   NaN
+414500   NaN
+414500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+426600,"timestamp
+426600   NaN
+426600   NaN
+426600   NaN
+426600   NaN
+426600   NaN
+          ..
+426700   NaN
+426700   NaN
+426700   NaN
+426700   NaN
+426700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+436500,"timestamp
+436500   NaN
+436500   NaN
+436500   NaN
+436500   NaN
+436500   NaN
+          ..
+436600   NaN
+436600   NaN
+436600   NaN
+436600   NaN
+436600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+441600,"timestamp
+441600   NaN
+441600   NaN
+441600   NaN
+441600   NaN
+441600   NaN
+          ..
+441700   NaN
+441700   NaN
+441700   NaN
+441700   NaN
+441700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+442000,"timestamp
+442000   NaN
+442000   NaN
+442000   NaN
+442000   NaN
+442000   NaN
+          ..
+442100   NaN
+442100   NaN
+442100   NaN
+442100   NaN
+442100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+444600,"timestamp
+444600   NaN
+444600   NaN
+444600   NaN
+444600   NaN
+444600   NaN
+          ..
+444700   NaN
+444700   NaN
+444700   NaN
+444700   NaN
+444700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+449600,"timestamp
+449600   NaN
+449600   NaN
+449600   NaN
+449600   NaN
+449600   NaN
+          ..
+449700   NaN
+449700   NaN
+449700   NaN
+449700   NaN
+449700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+449900,"timestamp
+449900   NaN
+449900   NaN
+449900   NaN
+449900   NaN
+449900   NaN
+          ..
+450000   NaN
+450000   NaN
+450000   NaN
+450000   NaN
+450000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+450400,"timestamp
+450400   NaN
+450400   NaN
+450400   NaN
+450400   NaN
+450400   NaN
+          ..
+450500   NaN
+450500   NaN
+450500   NaN
+450500   NaN
+450500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+453900,"timestamp
+453900   NaN
+453900   NaN
+453900   NaN
+453900   NaN
+453900   NaN
+          ..
+454000   NaN
+454000   NaN
+454000   NaN
+454000   NaN
+454000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+456300,"timestamp
+456300   NaN
+456300   NaN
+456300   NaN
+456300   NaN
+456300   NaN
+          ..
+456400   NaN
+456400   NaN
+456400   NaN
+456400   NaN
+456400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+458500,"timestamp
+458500   NaN
+458500   NaN
+458500   NaN
+458500   NaN
+458500   NaN
+          ..
+458600   NaN
+458600   NaN
+458600   NaN
+458600   NaN
+458600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+467600,"timestamp
+467600   NaN
+467600   NaN
+467600   NaN
+467600   NaN
+467600   NaN
+          ..
+467700   NaN
+467700   NaN
+467700   NaN
+467700   NaN
+467700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+468100,"timestamp
+468100   NaN
+468100   NaN
+468100   NaN
+468100   NaN
+468100   NaN
+          ..
+468200   NaN
+468200   NaN
+468200   NaN
+468200   NaN
+468200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+470000,"timestamp
+470000   NaN
+470000   NaN
+470000   NaN
+470000   NaN
+470000   NaN
+          ..
+470100   NaN
+470100   NaN
+470100   NaN
+470100   NaN
+470100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+477100,"timestamp
+477100   NaN
+477100   NaN
+477100   NaN
+477100   NaN
+477100   NaN
+          ..
+477200   NaN
+477200   NaN
+477200   NaN
+477200   NaN
+477200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+479000,"timestamp
+479000   NaN
+479000   NaN
+479000   NaN
+479000   NaN
+479000   NaN
+          ..
+479100   NaN
+479100   NaN
+479100   NaN
+479100   NaN
+479100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+480700,"timestamp
+480700   NaN
+480700   NaN
+480700   NaN
+480700   NaN
+480700   NaN
+          ..
+480800   NaN
+480800   NaN
+480800   NaN
+480800   NaN
+480800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+485300,"timestamp
+485300   NaN
+485300   NaN
+485300   NaN
+485300   NaN
+485300   NaN
+          ..
+485400   NaN
+485400   NaN
+485400   NaN
+485400   NaN
+485400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+492200,"timestamp
+492200   NaN
+492200   NaN
+492200   NaN
+492200   NaN
+492200   NaN
+          ..
+492300   NaN
+492300   NaN
+492300   NaN
+492300   NaN
+492300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+495800,"timestamp
+495800   NaN
+495800   NaN
+495800   NaN
+495800   NaN
+495800   NaN
+          ..
+495900   NaN
+495900   NaN
+495900   NaN
+495900   NaN
+495900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+500500,"timestamp
+500500   NaN
+500500   NaN
+500500   NaN
+500500   NaN
+500500   NaN
+          ..
+500600   NaN
+500600   NaN
+500600   NaN
+500600   NaN
+500600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+502300,"timestamp
+502300   NaN
+502300   NaN
+502300   NaN
+502300   NaN
+502300   NaN
+          ..
+502400   NaN
+502400   NaN
+502400   NaN
+502400   NaN
+502400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+502600,"timestamp
+502600   NaN
+502600   NaN
+502600   NaN
+502600   NaN
+502600   NaN
+          ..
+502700   NaN
+502700   NaN
+502700   NaN
+502700   NaN
+502700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+512800,"timestamp
+512800   NaN
+512800   NaN
+512800   NaN
+512800   NaN
+512800   NaN
+          ..
+512900   NaN
+512900   NaN
+512900   NaN
+512900   NaN
+512900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+519300,"timestamp
+519300   NaN
+519300   NaN
+519300   NaN
+519300   NaN
+519300   NaN
+          ..
+519400   NaN
+519400   NaN
+519400   NaN
+519400   NaN
+519400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+527300,"timestamp
+527300   NaN
+527300   NaN
+527300   NaN
+527300   NaN
+527300   NaN
+          ..
+527400   NaN
+527400   NaN
+527400   NaN
+527400   NaN
+527400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+535700,"timestamp
+535700   NaN
+535700   NaN
+535700   NaN
+535700   NaN
+535700   NaN
+          ..
+535800   NaN
+535800   NaN
+535800   NaN
+535800   NaN
+535800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+537400,"timestamp
+537400   NaN
+537400   NaN
+537400   NaN
+537400   NaN
+537400   NaN
+          ..
+537500   NaN
+537500   NaN
+537500   NaN
+537500   NaN
+537500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+541100,"timestamp
+541100   NaN
+541100   NaN
+541100   NaN
+541100   NaN
+541100   NaN
+          ..
+541200   NaN
+541200   NaN
+541200   NaN
+541200   NaN
+541200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+556500,"timestamp
+556500   NaN
+556500   NaN
+556500   NaN
+556500   NaN
+556500   NaN
+          ..
+556600   NaN
+556600   NaN
+556600   NaN
+556600   NaN
+556600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+577200,"timestamp
+577200   NaN
+577200   NaN
+577200   NaN
+577200   NaN
+577200   NaN
+          ..
+577300   NaN
+577300   NaN
+577300   NaN
+577300   NaN
+577300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+580400,"timestamp
+580400   NaN
+580400   NaN
+580400   NaN
+580400   NaN
+580400   NaN
+          ..
+580500   NaN
+580500   NaN
+580500   NaN
+580500   NaN
+580500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+584600,"timestamp
+584600   NaN
+584600   NaN
+584600   NaN
+584600   NaN
+584600   NaN
+          ..
+584700   NaN
+584700   NaN
+584700   NaN
+584700   NaN
+584700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+585000,"timestamp
+585000   NaN
+585000   NaN
+585000   NaN
+585000   NaN
+585000   NaN
+          ..
+585100   NaN
+585100   NaN
+585100   NaN
+585100   NaN
+585100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+589100,"timestamp
+589100   NaN
+589100   NaN
+589100   NaN
+589100   NaN
+589100   NaN
+          ..
+589200   NaN
+589200   NaN
+589200   NaN
+589200   NaN
+589200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+590400,"timestamp
+590400   NaN
+590400   NaN
+590400   NaN
+590400   NaN
+590400   NaN
+          ..
+590500   NaN
+590500   NaN
+590500   NaN
+590500   NaN
+590500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+593800,"timestamp
+593800   NaN
+593800   NaN
+593800   NaN
+593800   NaN
+593800   NaN
+          ..
+593900   NaN
+593900   NaN
+593900   NaN
+593900   NaN
+593900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+601000,"timestamp
+601000   NaN
+601000   NaN
+601000   NaN
+601000   NaN
+601000   NaN
+          ..
+601100   NaN
+601100   NaN
+601100   NaN
+601100   NaN
+601100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+605300,"timestamp
+605300   NaN
+605300   NaN
+605300   NaN
+605300   NaN
+605300   NaN
+          ..
+605400   NaN
+605400   NaN
+605400   NaN
+605400   NaN
+605400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+612500,"timestamp
+612500   NaN
+612500   NaN
+612500   NaN
+612500   NaN
+612500   NaN
+          ..
+612600   NaN
+612600   NaN
+612600   NaN
+612600   NaN
+612600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+619500,"timestamp
+619500   NaN
+619500   NaN
+619500   NaN
+619500   NaN
+619500   NaN
+          ..
+619600   NaN
+619600   NaN
+619600   NaN
+619600   NaN
+619600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+624200,"timestamp
+624200   NaN
+624200   NaN
+624200   NaN
+624200   NaN
+624200   NaN
+          ..
+624300   NaN
+624300   NaN
+624300   NaN
+624300   NaN
+624300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+625600,"timestamp
+625600   NaN
+625600   NaN
+625600   NaN
+625600   NaN
+625600   NaN
+          ..
+625700   NaN
+625700   NaN
+625700   NaN
+625700   NaN
+625700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+634900,"timestamp
+634900   NaN
+634900   NaN
+634900   NaN
+634900   NaN
+634900   NaN
+          ..
+635000   NaN
+635000   NaN
+635000   NaN
+635000   NaN
+635000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+645500,"timestamp
+645500   NaN
+645500   NaN
+645500   NaN
+645500   NaN
+645500   NaN
+          ..
+645600   NaN
+645600   NaN
+645600   NaN
+645600   NaN
+645600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+658600,"timestamp
+658600   NaN
+658600   NaN
+658600   NaN
+658600   NaN
+658600   NaN
+          ..
+658700   NaN
+658700   NaN
+658700   NaN
+658700   NaN
+658700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+661500,"timestamp
+661500   NaN
+661500   NaN
+661500   NaN
+661500   NaN
+661500   NaN
+          ..
+661600   NaN
+661600   NaN
+661600   NaN
+661600   NaN
+661600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+666100,"timestamp
+666100   NaN
+666100   NaN
+666100   NaN
+666100   NaN
+666100   NaN
+          ..
+666200   NaN
+666200   NaN
+666200   NaN
+666200   NaN
+666200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+666500,"timestamp
+666500   NaN
+666500   NaN
+666500   NaN
+666500   NaN
+666500   NaN
+          ..
+666600   NaN
+666600   NaN
+666600   NaN
+666600   NaN
+666600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+666500,"timestamp
+666500   NaN
+666500   NaN
+666500   NaN
+666500   NaN
+666500   NaN
+          ..
+666600   NaN
+666600   NaN
+666600   NaN
+666600   NaN
+666600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+667100,"timestamp
+667100   NaN
+667100   NaN
+667100   NaN
+667100   NaN
+667100   NaN
+          ..
+667200   NaN
+667200   NaN
+667200   NaN
+667200   NaN
+667200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+667400,"timestamp
+667400   NaN
+667400   NaN
+667400   NaN
+667400   NaN
+667400   NaN
+          ..
+667500   NaN
+667500   NaN
+667500   NaN
+667500   NaN
+667500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+675700,"timestamp
+675700   NaN
+675700   NaN
+675700   NaN
+675700   NaN
+675700   NaN
+          ..
+675800   NaN
+675800   NaN
+675800   NaN
+675800   NaN
+675800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+691100,"timestamp
+691100   NaN
+691100   NaN
+691100   NaN
+691100   NaN
+691100   NaN
+          ..
+691200   NaN
+691200   NaN
+691200   NaN
+691200   NaN
+691200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+693900,"timestamp
+693900   NaN
+693900   NaN
+693900   NaN
+693900   NaN
+693900   NaN
+          ..
+694000   NaN
+694000   NaN
+694000   NaN
+694000   NaN
+694000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+694100,"timestamp
+694100   NaN
+694100   NaN
+694100   NaN
+694100   NaN
+694100   NaN
+          ..
+694200   NaN
+694200   NaN
+694200   NaN
+694200   NaN
+694200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+700700,"timestamp
+700700   NaN
+700700   NaN
+700700   NaN
+700700   NaN
+700700   NaN
+          ..
+700800   NaN
+700800   NaN
+700800   NaN
+700800   NaN
+700800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+711300,"timestamp
+711300   NaN
+711300   NaN
+711300   NaN
+711300   NaN
+711300   NaN
+          ..
+711400   NaN
+711400   NaN
+711400   NaN
+711400   NaN
+711400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+731400,"timestamp
+731400   NaN
+731400   NaN
+731400   NaN
+731400   NaN
+731400   NaN
+          ..
+731500   NaN
+731500   NaN
+731500   NaN
+731500   NaN
+731500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+742700,"timestamp
+742700   NaN
+742700   NaN
+742700   NaN
+742700   NaN
+742700   NaN
+          ..
+742800   NaN
+742800   NaN
+742800   NaN
+742800   NaN
+742800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+747100,"timestamp
+747100   NaN
+747100   NaN
+747100   NaN
+747100   NaN
+747100   NaN
+          ..
+747200   NaN
+747200   NaN
+747200   NaN
+747200   NaN
+747200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+752500,"timestamp
+752500   NaN
+752500   NaN
+752500   NaN
+752500   NaN
+752500   NaN
+          ..
+752600   NaN
+752600   NaN
+752600   NaN
+752600   NaN
+752600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+762000,"timestamp
+762000   NaN
+762000   NaN
+762000   NaN
+762000   NaN
+762000   NaN
+          ..
+762100   NaN
+762100   NaN
+762100   NaN
+762100   NaN
+762100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+773400,"timestamp
+773400   NaN
+773400   NaN
+773400   NaN
+773400   NaN
+773400   NaN
+          ..
+773500   NaN
+773500   NaN
+773500   NaN
+773500   NaN
+773500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+781700,"timestamp
+781700   NaN
+781700   NaN
+781700   NaN
+781700   NaN
+781700   NaN
+          ..
+781800   NaN
+781800   NaN
+781800   NaN
+781800   NaN
+781800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+784700,"timestamp
+784700   NaN
+784700   NaN
+784700   NaN
+784700   NaN
+784700   NaN
+          ..
+784800   NaN
+784800   NaN
+784800   NaN
+784800   NaN
+784800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+791600,"timestamp
+791600   NaN
+791600   NaN
+791600   NaN
+791600   NaN
+791600   NaN
+          ..
+791700   NaN
+791700   NaN
+791700   NaN
+791700   NaN
+791700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+792000,"timestamp
+792000   NaN
+792000   NaN
+792000   NaN
+792000   NaN
+792000   NaN
+          ..
+792100   NaN
+792100   NaN
+792100   NaN
+792100   NaN
+792100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+793600,"timestamp
+793600   NaN
+793600   NaN
+793600   NaN
+793600   NaN
+793600   NaN
+          ..
+793700   NaN
+793700   NaN
+793700   NaN
+793700   NaN
+793700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+795700,"timestamp
+795700   NaN
+795700   NaN
+795700   NaN
+795700   NaN
+795700   NaN
+          ..
+795800   NaN
+795800   NaN
+795800   NaN
+795800   NaN
+795800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+798000,"timestamp
+798000   NaN
+798000   NaN
+798000   NaN
+798000   NaN
+798000   NaN
+          ..
+798100   NaN
+798100   NaN
+798100   NaN
+798100   NaN
+798100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+804300,"timestamp
+804300   NaN
+804300   NaN
+804300   NaN
+804300   NaN
+804300   NaN
+          ..
+804400   NaN
+804400   NaN
+804400   NaN
+804400   NaN
+804400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+809500,"timestamp
+809500   NaN
+809500   NaN
+809500   NaN
+809500   NaN
+809500   NaN
+          ..
+809600   NaN
+809600   NaN
+809600   NaN
+809600   NaN
+809600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+821900,"timestamp
+821900   NaN
+821900   NaN
+821900   NaN
+821900   NaN
+821900   NaN
+          ..
+822000   NaN
+822000   NaN
+822000   NaN
+822000   NaN
+822000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+830000,"timestamp
+830000   NaN
+830000   NaN
+830000   NaN
+830000   NaN
+830000   NaN
+          ..
+830100   NaN
+830100   NaN
+830100   NaN
+830100   NaN
+830100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+832500,"timestamp
+832500   NaN
+832500   NaN
+832500   NaN
+832500   NaN
+832500   NaN
+          ..
+832600   NaN
+832600   NaN
+832600   NaN
+832600   NaN
+832600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+834400,"timestamp
+834400   NaN
+834400   NaN
+834400   NaN
+834400   NaN
+834400   NaN
+          ..
+834500   NaN
+834500   NaN
+834500   NaN
+834500   NaN
+834500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+835400,"timestamp
+835400   NaN
+835400   NaN
+835400   NaN
+835400   NaN
+835400   NaN
+          ..
+835500   NaN
+835500   NaN
+835500   NaN
+835500   NaN
+835500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+835900,"timestamp
+835900   NaN
+835900   NaN
+835900   NaN
+835900   NaN
+835900   NaN
+          ..
+836000   NaN
+836000   NaN
+836000   NaN
+836000   NaN
+836000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+844500,"timestamp
+844500   NaN
+844500   NaN
+844500   NaN
+844500   NaN
+844500   NaN
+          ..
+844600   NaN
+844600   NaN
+844600   NaN
+844600   NaN
+844600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+845100,"timestamp
+845100   NaN
+845100   NaN
+845100   NaN
+845100   NaN
+845100   NaN
+          ..
+845200   NaN
+845200   NaN
+845200   NaN
+845200   NaN
+845200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+852300,"timestamp
+852300   NaN
+852300   NaN
+852300   NaN
+852300   NaN
+852300   NaN
+          ..
+852400   NaN
+852400   NaN
+852400   NaN
+852400   NaN
+852400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+858900,"timestamp
+858900   NaN
+858900   NaN
+858900   NaN
+858900   NaN
+858900   NaN
+          ..
+859000   NaN
+859000   NaN
+859000   NaN
+859000   NaN
+859000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+860000,"timestamp
+860000   NaN
+860000   NaN
+860000   NaN
+860000   NaN
+860000   NaN
+          ..
+860100   NaN
+860100   NaN
+860100   NaN
+860100   NaN
+860100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+877900,"timestamp
+877900   NaN
+877900   NaN
+877900   NaN
+877900   NaN
+877900   NaN
+          ..
+878000   NaN
+878000   NaN
+878000   NaN
+878000   NaN
+878000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+880200,"timestamp
+880200   NaN
+880200   NaN
+880200   NaN
+880200   NaN
+880200   NaN
+          ..
+880300   NaN
+880300   NaN
+880300   NaN
+880300   NaN
+880300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+886300,"timestamp
+886300   NaN
+886300   NaN
+886300   NaN
+886300   NaN
+886300   NaN
+          ..
+886400   NaN
+886400   NaN
+886400   NaN
+886400   NaN
+886400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+888700,"timestamp
+888700   NaN
+888700   NaN
+888700   NaN
+888700   NaN
+888700   NaN
+          ..
+888800   NaN
+888800   NaN
+888800   NaN
+888800   NaN
+888800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+901600,"timestamp
+901600   NaN
+901600   NaN
+901600   NaN
+901600   NaN
+901600   NaN
+          ..
+901700   NaN
+901700   NaN
+901700   NaN
+901700   NaN
+901700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+904500,"timestamp
+904500   NaN
+904500   NaN
+904500   NaN
+904500   NaN
+904500   NaN
+          ..
+904600   NaN
+904600   NaN
+904600   NaN
+904600   NaN
+904600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+917500,"timestamp
+917500   NaN
+917500   NaN
+917500   NaN
+917500   NaN
+917500   NaN
+          ..
+917600   NaN
+917600   NaN
+917600   NaN
+917600   NaN
+917600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+924200,"timestamp
+924200   NaN
+924200   NaN
+924200   NaN
+924200   NaN
+924200   NaN
+          ..
+924300   NaN
+924300   NaN
+924300   NaN
+924300   NaN
+924300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+928100,"timestamp
+928100   NaN
+928100   NaN
+928100   NaN
+928100   NaN
+928100   NaN
+          ..
+928200   NaN
+928200   NaN
+928200   NaN
+928200   NaN
+928200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+940800,"timestamp
+940800   NaN
+940800   NaN
+940800   NaN
+940800   NaN
+940800   NaN
+          ..
+940900   NaN
+940900   NaN
+940900   NaN
+940900   NaN
+940900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+947000,"timestamp
+947000   NaN
+947000   NaN
+947000   NaN
+947000   NaN
+947000   NaN
+          ..
+947100   NaN
+947100   NaN
+947100   NaN
+947100   NaN
+947100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+951000,"timestamp
+951000   NaN
+951000   NaN
+951000   NaN
+951000   NaN
+951000   NaN
+          ..
+951100   NaN
+951100   NaN
+951100   NaN
+951100   NaN
+951100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+965400,"timestamp
+965400   NaN
+965400   NaN
+965400   NaN
+965400   NaN
+965400   NaN
+          ..
+965500   NaN
+965500   NaN
+965500   NaN
+965500   NaN
+965500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+971600,"timestamp
+971600   NaN
+971600   NaN
+971600   NaN
+971600   NaN
+971600   NaN
+          ..
+971700   NaN
+971700   NaN
+971700   NaN
+971700   NaN
+971700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+973000,"timestamp
+973000   NaN
+973000   NaN
+973000   NaN
+973000   NaN
+973000   NaN
+          ..
+973100   NaN
+973100   NaN
+973100   NaN
+973100   NaN
+973100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+974300,"timestamp
+974300   NaN
+974300   NaN
+974300   NaN
+974300   NaN
+974300   NaN
+          ..
+974400   NaN
+974400   NaN
+974400   NaN
+974400   NaN
+974400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+974800,"timestamp
+974800   NaN
+974800   NaN
+974800   NaN
+974800   NaN
+974800   NaN
+          ..
+974900   NaN
+974900   NaN
+974900   NaN
+974900   NaN
+974900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+975500,"timestamp
+975500   NaN
+975500   NaN
+975500   NaN
+975500   NaN
+975500   NaN
+          ..
+975600   NaN
+975600   NaN
+975600   NaN
+975600   NaN
+975600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+976100,"timestamp
+976100   NaN
+976100   NaN
+976100   NaN
+976100   NaN
+976100   NaN
+          ..
+976200   NaN
+976200   NaN
+976200   NaN
+976200   NaN
+976200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+981400,"timestamp
+981400   NaN
+981400   NaN
+981400   NaN
+981400   NaN
+981400   NaN
+          ..
+981500   NaN
+981500   NaN
+981500   NaN
+981500   NaN
+981500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+992700,"timestamp
+992700   NaN
+992700   NaN
+992700   NaN
+992700   NaN
+992700   NaN
+          ..
+992800   NaN
+992800   NaN
+992800   NaN
+992800   NaN
+992800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+994100,"timestamp
+994100   NaN
+994100   NaN
+994100   NaN
+994100   NaN
+994100   NaN
+          ..
+994200   NaN
+994200   NaN
+994200   NaN
+994200   NaN
+994200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+997100,"timestamp
+997100   NaN
+997100   NaN
+997100   NaN
+997100   NaN
+997100   NaN
+          ..
+997200   NaN
+997200   NaN
+997200   NaN
+997200   NaN
+997200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+997200,"timestamp
+997200   NaN
+997200   NaN
+997200   NaN
+997200   NaN
+997200   NaN
+          ..
+997300   NaN
+997300   NaN
+997300   NaN
+997300   NaN
+997300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+4100,"timestamp
+4100   NaN
+4100   NaN
+4100   NaN
+4100   NaN
+4100   NaN
+        ..
+4200   NaN
+4200   NaN
+4200   NaN
+4200   NaN
+4200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+9400,"timestamp
+9400   NaN
+9400   NaN
+9400   NaN
+9400   NaN
+9400   NaN
+        ..
+9500   NaN
+9500   NaN
+9500   NaN
+9500   NaN
+9500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+14300,"timestamp
+14300   NaN
+14300   NaN
+14300   NaN
+14300   NaN
+14300   NaN
+         ..
+14400   NaN
+14400   NaN
+14400   NaN
+14400   NaN
+14400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+17600,"timestamp
+17600   NaN
+17600   NaN
+17600   NaN
+17600   NaN
+17600   NaN
+         ..
+17700   NaN
+17700   NaN
+17700   NaN
+17700   NaN
+17700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+23000,"timestamp
+23000   NaN
+23000   NaN
+23000   NaN
+23000   NaN
+23000   NaN
+         ..
+23100   NaN
+23100   NaN
+23100   NaN
+23100   NaN
+23100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+26600,"timestamp
+26600   NaN
+26600   NaN
+26600   NaN
+26600   NaN
+26600   NaN
+         ..
+26700   NaN
+26700   NaN
+26700   NaN
+26700   NaN
+26700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+31200,"timestamp
+31200   NaN
+31200   NaN
+31200   NaN
+31200   NaN
+31200   NaN
+         ..
+31300   NaN
+31300   NaN
+31300   NaN
+31300   NaN
+31300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+42100,"timestamp
+42100   NaN
+42100   NaN
+42100   NaN
+42100   NaN
+42100   NaN
+         ..
+42200   NaN
+42200   NaN
+42200   NaN
+42200   NaN
+42200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+43000,"timestamp
+43000   NaN
+43000   NaN
+43000   NaN
+43000   NaN
+43000   NaN
+         ..
+43100   NaN
+43100   NaN
+43100   NaN
+43100   NaN
+43100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+44400,"timestamp
+44400   NaN
+44400   NaN
+44400   NaN
+44400   NaN
+44400   NaN
+         ..
+44500   NaN
+44500   NaN
+44500   NaN
+44500   NaN
+44500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+44800,"timestamp
+44800   NaN
+44800   NaN
+44800   NaN
+44800   NaN
+44800   NaN
+         ..
+44900   NaN
+44900   NaN
+44900   NaN
+44900   NaN
+44900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+45700,"timestamp
+45700   NaN
+45700   NaN
+45700   NaN
+45700   NaN
+45700   NaN
+         ..
+45800   NaN
+45800   NaN
+45800   NaN
+45800   NaN
+45800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+46100,"timestamp
+46100   NaN
+46100   NaN
+46100   NaN
+46100   NaN
+46100   NaN
+         ..
+46200   NaN
+46200   NaN
+46200   NaN
+46200   NaN
+46200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+52500,"timestamp
+52500   NaN
+52500   NaN
+52500   NaN
+52500   NaN
+52500   NaN
+         ..
+52600   NaN
+52600   NaN
+52600   NaN
+52600   NaN
+52600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+53200,"timestamp
+53200   NaN
+53200   NaN
+53200   NaN
+53200   NaN
+53200   NaN
+         ..
+53300   NaN
+53300   NaN
+53300   NaN
+53300   NaN
+53300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+55100,"timestamp
+55100   NaN
+55100   NaN
+55100   NaN
+55100   NaN
+55100   NaN
+         ..
+55200   NaN
+55200   NaN
+55200   NaN
+55200   NaN
+55200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+57800,"timestamp
+57800   NaN
+57800   NaN
+57800   NaN
+57800   NaN
+57800   NaN
+         ..
+57900   NaN
+57900   NaN
+57900   NaN
+57900   NaN
+57900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+66300,"timestamp
+66300   NaN
+66300   NaN
+66300   NaN
+66300   NaN
+66300   NaN
+         ..
+66400   NaN
+66400   NaN
+66400   NaN
+66400   NaN
+66400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+66900,"timestamp
+66900   NaN
+66900   NaN
+66900   NaN
+66900   NaN
+66900   NaN
+         ..
+67000   NaN
+67000   NaN
+67000   NaN
+67000   NaN
+67000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+70600,"timestamp
+70600   NaN
+70600   NaN
+70600   NaN
+70600   NaN
+70600   NaN
+         ..
+70700   NaN
+70700   NaN
+70700   NaN
+70700   NaN
+70700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+79900,"timestamp
+79900   NaN
+79900   NaN
+79900   NaN
+79900   NaN
+79900   NaN
+         ..
+80000   NaN
+80000   NaN
+80000   NaN
+80000   NaN
+80000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+83200,"timestamp
+83200   NaN
+83200   NaN
+83200   NaN
+83200   NaN
+83200   NaN
+         ..
+83300   NaN
+83300   NaN
+83300   NaN
+83300   NaN
+83300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+89200,"timestamp
+89200   NaN
+89200   NaN
+89200   NaN
+89200   NaN
+89200   NaN
+         ..
+89300   NaN
+89300   NaN
+89300   NaN
+89300   NaN
+89300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+91700,"timestamp
+91700   NaN
+91700   NaN
+91700   NaN
+91700   NaN
+91700   NaN
+         ..
+91800   NaN
+91800   NaN
+91800   NaN
+91800   NaN
+91800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+92200,"timestamp
+92200   NaN
+92200   NaN
+92200   NaN
+92200   NaN
+92200   NaN
+         ..
+92300   NaN
+92300   NaN
+92300   NaN
+92300   NaN
+92300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+97100,"timestamp
+97100   NaN
+97100   NaN
+97100   NaN
+97100   NaN
+97100   NaN
+         ..
+97200   NaN
+97200   NaN
+97200   NaN
+97200   NaN
+97200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+102300,"timestamp
+102300   NaN
+102300   NaN
+102300   NaN
+102300   NaN
+102300   NaN
+          ..
+102400   NaN
+102400   NaN
+102400   NaN
+102400   NaN
+102400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+106400,"timestamp
+106400   NaN
+106400   NaN
+106400   NaN
+106400   NaN
+106400   NaN
+          ..
+106500   NaN
+106500   NaN
+106500   NaN
+106500   NaN
+106500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+115300,"timestamp
+115300   NaN
+115300   NaN
+115300   NaN
+115300   NaN
+115300   NaN
+          ..
+115400   NaN
+115400   NaN
+115400   NaN
+115400   NaN
+115400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+119900,"timestamp
+119900   NaN
+119900   NaN
+119900   NaN
+119900   NaN
+119900   NaN
+          ..
+120000   NaN
+120000   NaN
+120000   NaN
+120000   NaN
+120000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+130500,"timestamp
+130500   NaN
+130500   NaN
+130500   NaN
+130500   NaN
+130500   NaN
+          ..
+130600   NaN
+130600   NaN
+130600   NaN
+130600   NaN
+130600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+139200,"timestamp
+139200   NaN
+139200   NaN
+139200   NaN
+139200   NaN
+139200   NaN
+          ..
+139300   NaN
+139300   NaN
+139300   NaN
+139300   NaN
+139300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+143500,"timestamp
+143500   NaN
+143500   NaN
+143500   NaN
+143500   NaN
+143500   NaN
+          ..
+143600   NaN
+143600   NaN
+143600   NaN
+143600   NaN
+143600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+143700,"timestamp
+143700   NaN
+143700   NaN
+143700   NaN
+143700   NaN
+143700   NaN
+          ..
+143800   NaN
+143800   NaN
+143800   NaN
+143800   NaN
+143800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+143800,"timestamp
+143800   NaN
+143800   NaN
+143800   NaN
+143800   NaN
+143800   NaN
+          ..
+143900   NaN
+143900   NaN
+143900   NaN
+143900   NaN
+143900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+149700,"timestamp
+149700   NaN
+149700   NaN
+149700   NaN
+149700   NaN
+149700   NaN
+          ..
+149800   NaN
+149800   NaN
+149800   NaN
+149800   NaN
+149800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+165100,"timestamp
+165100   NaN
+165100   NaN
+165100   NaN
+165100   NaN
+165100   NaN
+          ..
+165200   NaN
+165200   NaN
+165200   NaN
+165200   NaN
+165200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+165100,"timestamp
+165100   NaN
+165100   NaN
+165100   NaN
+165100   NaN
+165100   NaN
+          ..
+165200   NaN
+165200   NaN
+165200   NaN
+165200   NaN
+165200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+165200,"timestamp
+165200   NaN
+165200   NaN
+165200   NaN
+165200   NaN
+165200   NaN
+          ..
+165300   NaN
+165300   NaN
+165300   NaN
+165300   NaN
+165300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+165500,"timestamp
+165500   NaN
+165500   NaN
+165500   NaN
+165500   NaN
+165500   NaN
+          ..
+165600   NaN
+165600   NaN
+165600   NaN
+165600   NaN
+165600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+165600,"timestamp
+165600   NaN
+165600   NaN
+165600   NaN
+165600   NaN
+165600   NaN
+          ..
+165700   NaN
+165700   NaN
+165700   NaN
+165700   NaN
+165700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+170400,"timestamp
+170400   NaN
+170400   NaN
+170400   NaN
+170400   NaN
+170400   NaN
+          ..
+170500   NaN
+170500   NaN
+170500   NaN
+170500   NaN
+170500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+170800,"timestamp
+170800   NaN
+170800   NaN
+170800   NaN
+170800   NaN
+170800   NaN
+          ..
+170900   NaN
+170900   NaN
+170900   NaN
+170900   NaN
+170900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+174600,"timestamp
+174600   NaN
+174600   NaN
+174600   NaN
+174600   NaN
+174600   NaN
+          ..
+174700   NaN
+174700   NaN
+174700   NaN
+174700   NaN
+174700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+176900,"timestamp
+176900   NaN
+176900   NaN
+176900   NaN
+176900   NaN
+176900   NaN
+          ..
+177000   NaN
+177000   NaN
+177000   NaN
+177000   NaN
+177000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+180600,"timestamp
+180600   NaN
+180600   NaN
+180600   NaN
+180600   NaN
+180600   NaN
+          ..
+180700   NaN
+180700   NaN
+180700   NaN
+180700   NaN
+180700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+197900,"timestamp
+197900   NaN
+197900   NaN
+197900   NaN
+197900   NaN
+197900   NaN
+          ..
+198000   NaN
+198000   NaN
+198000   NaN
+198000   NaN
+198000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+204800,"timestamp
+204800   NaN
+204800   NaN
+204800   NaN
+204800   NaN
+204800   NaN
+          ..
+204900   NaN
+204900   NaN
+204900   NaN
+204900   NaN
+204900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+206800,"timestamp
+206800   NaN
+206800   NaN
+206800   NaN
+206800   NaN
+206800   NaN
+          ..
+206900   NaN
+206900   NaN
+206900   NaN
+206900   NaN
+206900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+216800,"timestamp
+216800   NaN
+216800   NaN
+216800   NaN
+216800   NaN
+216800   NaN
+          ..
+216900   NaN
+216900   NaN
+216900   NaN
+216900   NaN
+216900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+221500,"timestamp
+221500   NaN
+221500   NaN
+221500   NaN
+221500   NaN
+221500   NaN
+          ..
+221600   NaN
+221600   NaN
+221600   NaN
+221600   NaN
+221600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+224700,"timestamp
+224700   NaN
+224700   NaN
+224700   NaN
+224700   NaN
+224700   NaN
+          ..
+224800   NaN
+224800   NaN
+224800   NaN
+224800   NaN
+224800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+230300,"timestamp
+230300   NaN
+230300   NaN
+230300   NaN
+230300   NaN
+230300   NaN
+          ..
+230400   NaN
+230400   NaN
+230400   NaN
+230400   NaN
+230400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+232000,"timestamp
+232000   NaN
+232000   NaN
+232000   NaN
+232000   NaN
+232000   NaN
+          ..
+232100   NaN
+232100   NaN
+232100   NaN
+232100   NaN
+232100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+236400,"timestamp
+236400   NaN
+236400   NaN
+236400   NaN
+236400   NaN
+236400   NaN
+          ..
+236500   NaN
+236500   NaN
+236500   NaN
+236500   NaN
+236500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+236400,"timestamp
+236400   NaN
+236400   NaN
+236400   NaN
+236400   NaN
+236400   NaN
+          ..
+236500   NaN
+236500   NaN
+236500   NaN
+236500   NaN
+236500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+244600,"timestamp
+244600   NaN
+244600   NaN
+244600   NaN
+244600   NaN
+244600   NaN
+          ..
+244700   NaN
+244700   NaN
+244700   NaN
+244700   NaN
+244700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+248500,"timestamp
+248500   NaN
+248500   NaN
+248500   NaN
+248500   NaN
+248500   NaN
+          ..
+248600   NaN
+248600   NaN
+248600   NaN
+248600   NaN
+248600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+248800,"timestamp
+248800   NaN
+248800   NaN
+248800   NaN
+248800   NaN
+248800   NaN
+          ..
+248900   NaN
+248900   NaN
+248900   NaN
+248900   NaN
+248900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+269100,"timestamp
+269100   NaN
+269100   NaN
+269100   NaN
+269100   NaN
+269100   NaN
+          ..
+269200   NaN
+269200   NaN
+269200   NaN
+269200   NaN
+269200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+273000,"timestamp
+273000   NaN
+273000   NaN
+273000   NaN
+273000   NaN
+273000   NaN
+          ..
+273100   NaN
+273100   NaN
+273100   NaN
+273100   NaN
+273100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+275700,"timestamp
+275700   NaN
+275700   NaN
+275700   NaN
+275700   NaN
+275700   NaN
+          ..
+275800   NaN
+275800   NaN
+275800   NaN
+275800   NaN
+275800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+278600,"timestamp
+278600   NaN
+278600   NaN
+278600   NaN
+278600   NaN
+278600   NaN
+          ..
+278700   NaN
+278700   NaN
+278700   NaN
+278700   NaN
+278700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+279500,"timestamp
+279500   NaN
+279500   NaN
+279500   NaN
+279500   NaN
+279500   NaN
+          ..
+279600   NaN
+279600   NaN
+279600   NaN
+279600   NaN
+279600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+280600,"timestamp
+280600   NaN
+280600   NaN
+280600   NaN
+280600   NaN
+280600   NaN
+          ..
+280700   NaN
+280700   NaN
+280700   NaN
+280700   NaN
+280700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+309500,"timestamp
+309500   NaN
+309500   NaN
+309500   NaN
+309500   NaN
+309500   NaN
+          ..
+309600   NaN
+309600   NaN
+309600   NaN
+309600   NaN
+309600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+312600,"timestamp
+312600   NaN
+312600   NaN
+312600   NaN
+312600   NaN
+312600   NaN
+          ..
+312700   NaN
+312700   NaN
+312700   NaN
+312700   NaN
+312700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+315900,"timestamp
+315900   NaN
+315900   NaN
+315900   NaN
+315900   NaN
+315900   NaN
+          ..
+316000   NaN
+316000   NaN
+316000   NaN
+316000   NaN
+316000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+317800,"timestamp
+317800   NaN
+317800   NaN
+317800   NaN
+317800   NaN
+317800   NaN
+          ..
+317900   NaN
+317900   NaN
+317900   NaN
+317900   NaN
+317900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+321800,"timestamp
+321800   NaN
+321800   NaN
+321800   NaN
+321800   NaN
+321800   NaN
+          ..
+321900   NaN
+321900   NaN
+321900   NaN
+321900   NaN
+321900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+325400,"timestamp
+325400   NaN
+325400   NaN
+325400   NaN
+325400   NaN
+325400   NaN
+          ..
+325500   NaN
+325500   NaN
+325500   NaN
+325500   NaN
+325500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+329400,"timestamp
+329400   NaN
+329400   NaN
+329400   NaN
+329400   NaN
+329400   NaN
+          ..
+329500   NaN
+329500   NaN
+329500   NaN
+329500   NaN
+329500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+333700,"timestamp
+333700   NaN
+333700   NaN
+333700   NaN
+333700   NaN
+333700   NaN
+          ..
+333800   NaN
+333800   NaN
+333800   NaN
+333800   NaN
+333800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+344100,"timestamp
+344100   NaN
+344100   NaN
+344100   NaN
+344100   NaN
+344100   NaN
+          ..
+344200   NaN
+344200   NaN
+344200   NaN
+344200   NaN
+344200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+351700,"timestamp
+351700   NaN
+351700   NaN
+351700   NaN
+351700   NaN
+351700   NaN
+          ..
+351800   NaN
+351800   NaN
+351800   NaN
+351800   NaN
+351800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+357000,"timestamp
+357000   NaN
+357000   NaN
+357000   NaN
+357000   NaN
+357000   NaN
+          ..
+357100   NaN
+357100   NaN
+357100   NaN
+357100   NaN
+357100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+358700,"timestamp
+358700   NaN
+358700   NaN
+358700   NaN
+358700   NaN
+358700   NaN
+          ..
+358800   NaN
+358800   NaN
+358800   NaN
+358800   NaN
+358800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+361300,"timestamp
+361300   NaN
+361300   NaN
+361300   NaN
+361300   NaN
+361300   NaN
+          ..
+361400   NaN
+361400   NaN
+361400   NaN
+361400   NaN
+361400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+363700,"timestamp
+363700   NaN
+363700   NaN
+363700   NaN
+363700   NaN
+363700   NaN
+          ..
+363800   NaN
+363800   NaN
+363800   NaN
+363800   NaN
+363800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+374200,"timestamp
+374200   NaN
+374200   NaN
+374200   NaN
+374200   NaN
+374200   NaN
+          ..
+374300   NaN
+374300   NaN
+374300   NaN
+374300   NaN
+374300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+381300,"timestamp
+381300   NaN
+381300   NaN
+381300   NaN
+381300   NaN
+381300   NaN
+          ..
+381400   NaN
+381400   NaN
+381400   NaN
+381400   NaN
+381400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+382500,"timestamp
+382500   NaN
+382500   NaN
+382500   NaN
+382500   NaN
+382500   NaN
+          ..
+382600   NaN
+382600   NaN
+382600   NaN
+382600   NaN
+382600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+387100,"timestamp
+387100   NaN
+387100   NaN
+387100   NaN
+387100   NaN
+387100   NaN
+          ..
+387200   NaN
+387200   NaN
+387200   NaN
+387200   NaN
+387200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+388700,"timestamp
+388700   NaN
+388700   NaN
+388700   NaN
+388700   NaN
+388700   NaN
+          ..
+388800   NaN
+388800   NaN
+388800   NaN
+388800   NaN
+388800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+389500,"timestamp
+389500   NaN
+389500   NaN
+389500   NaN
+389500   NaN
+389500   NaN
+          ..
+389600   NaN
+389600   NaN
+389600   NaN
+389600   NaN
+389600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+395500,"timestamp
+395500   NaN
+395500   NaN
+395500   NaN
+395500   NaN
+395500   NaN
+          ..
+395600   NaN
+395600   NaN
+395600   NaN
+395600   NaN
+395600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+397500,"timestamp
+397500   NaN
+397500   NaN
+397500   NaN
+397500   NaN
+397500   NaN
+          ..
+397600   NaN
+397600   NaN
+397600   NaN
+397600   NaN
+397600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+397800,"timestamp
+397800   NaN
+397800   NaN
+397800   NaN
+397800   NaN
+397800   NaN
+          ..
+397900   NaN
+397900   NaN
+397900   NaN
+397900   NaN
+397900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+398100,"timestamp
+398100   NaN
+398100   NaN
+398100   NaN
+398100   NaN
+398100   NaN
+          ..
+398200   NaN
+398200   NaN
+398200   NaN
+398200   NaN
+398200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+404900,"timestamp
+404900   NaN
+404900   NaN
+404900   NaN
+404900   NaN
+404900   NaN
+          ..
+405000   NaN
+405000   NaN
+405000   NaN
+405000   NaN
+405000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+408100,"timestamp
+408100   NaN
+408100   NaN
+408100   NaN
+408100   NaN
+408100   NaN
+          ..
+408200   NaN
+408200   NaN
+408200   NaN
+408200   NaN
+408200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+409400,"timestamp
+409400   NaN
+409400   NaN
+409400   NaN
+409400   NaN
+409400   NaN
+          ..
+409500   NaN
+409500   NaN
+409500   NaN
+409500   NaN
+409500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+410100,"timestamp
+410100   NaN
+410100   NaN
+410100   NaN
+410100   NaN
+410100   NaN
+          ..
+410200   NaN
+410200   NaN
+410200   NaN
+410200   NaN
+410200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+412200,"timestamp
+412200   NaN
+412200   NaN
+412200   NaN
+412200   NaN
+412200   NaN
+          ..
+412300   NaN
+412300   NaN
+412300   NaN
+412300   NaN
+412300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+430900,"timestamp
+430900   NaN
+430900   NaN
+430900   NaN
+430900   NaN
+430900   NaN
+          ..
+431000   NaN
+431000   NaN
+431000   NaN
+431000   NaN
+431000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+432700,"timestamp
+432700   NaN
+432700   NaN
+432700   NaN
+432700   NaN
+432700   NaN
+          ..
+432800   NaN
+432800   NaN
+432800   NaN
+432800   NaN
+432800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+433500,"timestamp
+433500   NaN
+433500   NaN
+433500   NaN
+433500   NaN
+433500   NaN
+          ..
+433600   NaN
+433600   NaN
+433600   NaN
+433600   NaN
+433600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+435600,"timestamp
+435600   NaN
+435600   NaN
+435600   NaN
+435600   NaN
+435600   NaN
+          ..
+435700   NaN
+435700   NaN
+435700   NaN
+435700   NaN
+435700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+442100,"timestamp
+442100   NaN
+442100   NaN
+442100   NaN
+442100   NaN
+442100   NaN
+          ..
+442200   NaN
+442200   NaN
+442200   NaN
+442200   NaN
+442200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+444200,"timestamp
+444200   NaN
+444200   NaN
+444200   NaN
+444200   NaN
+444200   NaN
+          ..
+444300   NaN
+444300   NaN
+444300   NaN
+444300   NaN
+444300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+445500,"timestamp
+445500   NaN
+445500   NaN
+445500   NaN
+445500   NaN
+445500   NaN
+          ..
+445600   NaN
+445600   NaN
+445600   NaN
+445600   NaN
+445600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+456000,"timestamp
+456000   NaN
+456000   NaN
+456000   NaN
+456000   NaN
+456000   NaN
+          ..
+456100   NaN
+456100   NaN
+456100   NaN
+456100   NaN
+456100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+459300,"timestamp
+459300   NaN
+459300   NaN
+459300   NaN
+459300   NaN
+459300   NaN
+          ..
+459400   NaN
+459400   NaN
+459400   NaN
+459400   NaN
+459400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+463900,"timestamp
+463900   NaN
+463900   NaN
+463900   NaN
+463900   NaN
+463900   NaN
+          ..
+464000   NaN
+464000   NaN
+464000   NaN
+464000   NaN
+464000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+466300,"timestamp
+466300   NaN
+466300   NaN
+466300   NaN
+466300   NaN
+466300   NaN
+          ..
+466400   NaN
+466400   NaN
+466400   NaN
+466400   NaN
+466400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+472200,"timestamp
+472200   NaN
+472200   NaN
+472200   NaN
+472200   NaN
+472200   NaN
+          ..
+472300   NaN
+472300   NaN
+472300   NaN
+472300   NaN
+472300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+472700,"timestamp
+472700   NaN
+472700   NaN
+472700   NaN
+472700   NaN
+472700   NaN
+          ..
+472800   NaN
+472800   NaN
+472800   NaN
+472800   NaN
+472800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+474800,"timestamp
+474800   NaN
+474800   NaN
+474800   NaN
+474800   NaN
+474800   NaN
+          ..
+474900   NaN
+474900   NaN
+474900   NaN
+474900   NaN
+474900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+481700,"timestamp
+481700   NaN
+481700   NaN
+481700   NaN
+481700   NaN
+481700   NaN
+          ..
+481800   NaN
+481800   NaN
+481800   NaN
+481800   NaN
+481800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+482600,"timestamp
+482600   NaN
+482600   NaN
+482600   NaN
+482600   NaN
+482600   NaN
+          ..
+482700   NaN
+482700   NaN
+482700   NaN
+482700   NaN
+482700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+484500,"timestamp
+484500   NaN
+484500   NaN
+484500   NaN
+484500   NaN
+484500   NaN
+          ..
+484600   NaN
+484600   NaN
+484600   NaN
+484600   NaN
+484600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+497100,"timestamp
+497100   NaN
+497100   NaN
+497100   NaN
+497100   NaN
+497100   NaN
+          ..
+497200   NaN
+497200   NaN
+497200   NaN
+497200   NaN
+497200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+499500,"timestamp
+499500   NaN
+499500   NaN
+499500   NaN
+499500   NaN
+499500   NaN
+          ..
+499600   NaN
+499600   NaN
+499600   NaN
+499600   NaN
+499600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+502800,"timestamp
+502800   NaN
+502800   NaN
+502800   NaN
+502800   NaN
+502800   NaN
+          ..
+502900   NaN
+502900   NaN
+502900   NaN
+502900   NaN
+502900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+506400,"timestamp
+506400   NaN
+506400   NaN
+506400   NaN
+506400   NaN
+506400   NaN
+          ..
+506500   NaN
+506500   NaN
+506500   NaN
+506500   NaN
+506500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+515400,"timestamp
+515400   NaN
+515400   NaN
+515400   NaN
+515400   NaN
+515400   NaN
+          ..
+515500   NaN
+515500   NaN
+515500   NaN
+515500   NaN
+515500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+531600,"timestamp
+531600   NaN
+531600   NaN
+531600   NaN
+531600   NaN
+531600   NaN
+          ..
+531700   NaN
+531700   NaN
+531700   NaN
+531700   NaN
+531700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+535200,"timestamp
+535200   NaN
+535200   NaN
+535200   NaN
+535200   NaN
+535200   NaN
+          ..
+535300   NaN
+535300   NaN
+535300   NaN
+535300   NaN
+535300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+538500,"timestamp
+538500   NaN
+538500   NaN
+538500   NaN
+538500   NaN
+538500   NaN
+          ..
+538600   NaN
+538600   NaN
+538600   NaN
+538600   NaN
+538600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+547200,"timestamp
+547200   NaN
+547200   NaN
+547200   NaN
+547200   NaN
+547200   NaN
+          ..
+547300   NaN
+547300   NaN
+547300   NaN
+547300   NaN
+547300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+547900,"timestamp
+547900   NaN
+547900   NaN
+547900   NaN
+547900   NaN
+547900   NaN
+          ..
+548000   NaN
+548000   NaN
+548000   NaN
+548000   NaN
+548000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+549400,"timestamp
+549400   NaN
+549400   NaN
+549400   NaN
+549400   NaN
+549400   NaN
+          ..
+549500   NaN
+549500   NaN
+549500   NaN
+549500   NaN
+549500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+560500,"timestamp
+560500   NaN
+560500   NaN
+560500   NaN
+560500   NaN
+560500   NaN
+          ..
+560600   NaN
+560600   NaN
+560600   NaN
+560600   NaN
+560600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+560800,"timestamp
+560800   NaN
+560800   NaN
+560800   NaN
+560800   NaN
+560800   NaN
+          ..
+560900   NaN
+560900   NaN
+560900   NaN
+560900   NaN
+560900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+563000,"timestamp
+563000   NaN
+563000   NaN
+563000   NaN
+563000   NaN
+563000   NaN
+          ..
+563100   NaN
+563100   NaN
+563100   NaN
+563100   NaN
+563100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+565500,"timestamp
+565500   NaN
+565500   NaN
+565500   NaN
+565500   NaN
+565500   NaN
+          ..
+565600   NaN
+565600   NaN
+565600   NaN
+565600   NaN
+565600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+569700,"timestamp
+569700   NaN
+569700   NaN
+569700   NaN
+569700   NaN
+569700   NaN
+          ..
+569800   NaN
+569800   NaN
+569800   NaN
+569800   NaN
+569800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+575500,"timestamp
+575500   NaN
+575500   NaN
+575500   NaN
+575500   NaN
+575500   NaN
+          ..
+575600   NaN
+575600   NaN
+575600   NaN
+575600   NaN
+575600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+580300,"timestamp
+580300   NaN
+580300   NaN
+580300   NaN
+580300   NaN
+580300   NaN
+          ..
+580400   NaN
+580400   NaN
+580400   NaN
+580400   NaN
+580400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+583400,"timestamp
+583400   NaN
+583400   NaN
+583400   NaN
+583400   NaN
+583400   NaN
+          ..
+583500   NaN
+583500   NaN
+583500   NaN
+583500   NaN
+583500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+595100,"timestamp
+595100   NaN
+595100   NaN
+595100   NaN
+595100   NaN
+595100   NaN
+          ..
+595200   NaN
+595200   NaN
+595200   NaN
+595200   NaN
+595200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+597400,"timestamp
+597400   NaN
+597400   NaN
+597400   NaN
+597400   NaN
+597400   NaN
+          ..
+597500   NaN
+597500   NaN
+597500   NaN
+597500   NaN
+597500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+606300,"timestamp
+606300   NaN
+606300   NaN
+606300   NaN
+606300   NaN
+606300   NaN
+          ..
+606400   NaN
+606400   NaN
+606400   NaN
+606400   NaN
+606400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+610800,"timestamp
+610800   NaN
+610800   NaN
+610800   NaN
+610800   NaN
+610800   NaN
+          ..
+610900   NaN
+610900   NaN
+610900   NaN
+610900   NaN
+610900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+614600,"timestamp
+614600   NaN
+614600   NaN
+614600   NaN
+614600   NaN
+614600   NaN
+          ..
+614700   NaN
+614700   NaN
+614700   NaN
+614700   NaN
+614700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+615300,"timestamp
+615300   NaN
+615300   NaN
+615300   NaN
+615300   NaN
+615300   NaN
+          ..
+615400   NaN
+615400   NaN
+615400   NaN
+615400   NaN
+615400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+618000,"timestamp
+618000   NaN
+618000   NaN
+618000   NaN
+618000   NaN
+618000   NaN
+          ..
+618100   NaN
+618100   NaN
+618100   NaN
+618100   NaN
+618100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+624900,"timestamp
+624900   NaN
+624900   NaN
+624900   NaN
+624900   NaN
+624900   NaN
+          ..
+625000   NaN
+625000   NaN
+625000   NaN
+625000   NaN
+625000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+626200,"timestamp
+626200   NaN
+626200   NaN
+626200   NaN
+626200   NaN
+626200   NaN
+          ..
+626300   NaN
+626300   NaN
+626300   NaN
+626300   NaN
+626300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+637500,"timestamp
+637500   NaN
+637500   NaN
+637500   NaN
+637500   NaN
+637500   NaN
+          ..
+637600   NaN
+637600   NaN
+637600   NaN
+637600   NaN
+637600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+638300,"timestamp
+638300   NaN
+638300   NaN
+638300   NaN
+638300   NaN
+638300   NaN
+          ..
+638400   NaN
+638400   NaN
+638400   NaN
+638400   NaN
+638400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+642200,"timestamp
+642200   NaN
+642200   NaN
+642200   NaN
+642200   NaN
+642200   NaN
+          ..
+642300   NaN
+642300   NaN
+642300   NaN
+642300   NaN
+642300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+651500,"timestamp
+651500   NaN
+651500   NaN
+651500   NaN
+651500   NaN
+651500   NaN
+          ..
+651600   NaN
+651600   NaN
+651600   NaN
+651600   NaN
+651600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+651600,"timestamp
+651600   NaN
+651600   NaN
+651600   NaN
+651600   NaN
+651600   NaN
+          ..
+651700   NaN
+651700   NaN
+651700   NaN
+651700   NaN
+651700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+662300,"timestamp
+662300   NaN
+662300   NaN
+662300   NaN
+662300   NaN
+662300   NaN
+          ..
+662400   NaN
+662400   NaN
+662400   NaN
+662400   NaN
+662400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+677900,"timestamp
+677900   NaN
+677900   NaN
+677900   NaN
+677900   NaN
+677900   NaN
+          ..
+678000   NaN
+678000   NaN
+678000   NaN
+678000   NaN
+678000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+678700,"timestamp
+678700   NaN
+678700   NaN
+678700   NaN
+678700   NaN
+678700   NaN
+          ..
+678800   NaN
+678800   NaN
+678800   NaN
+678800   NaN
+678800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+705500,"timestamp
+705500   NaN
+705500   NaN
+705500   NaN
+705500   NaN
+705500   NaN
+          ..
+705600   NaN
+705600   NaN
+705600   NaN
+705600   NaN
+705600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+721600,"timestamp
+721600   NaN
+721600   NaN
+721600   NaN
+721600   NaN
+721600   NaN
+          ..
+721700   NaN
+721700   NaN
+721700   NaN
+721700   NaN
+721700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+724700,"timestamp
+724700   NaN
+724700   NaN
+724700   NaN
+724700   NaN
+724700   NaN
+          ..
+724800   NaN
+724800   NaN
+724800   NaN
+724800   NaN
+724800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+725100,"timestamp
+725100   NaN
+725100   NaN
+725100   NaN
+725100   NaN
+725100   NaN
+          ..
+725200   NaN
+725200   NaN
+725200   NaN
+725200   NaN
+725200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+726900,"timestamp
+726900   NaN
+726900   NaN
+726900   NaN
+726900   NaN
+726900   NaN
+          ..
+727000   NaN
+727000   NaN
+727000   NaN
+727000   NaN
+727000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+733800,"timestamp
+733800   NaN
+733800   NaN
+733800   NaN
+733800   NaN
+733800   NaN
+          ..
+733900   NaN
+733900   NaN
+733900   NaN
+733900   NaN
+733900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+740700,"timestamp
+740700   NaN
+740700   NaN
+740700   NaN
+740700   NaN
+740700   NaN
+          ..
+740800   NaN
+740800   NaN
+740800   NaN
+740800   NaN
+740800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+808500,"timestamp
+808500   NaN
+808500   NaN
+808500   NaN
+808500   NaN
+808500   NaN
+          ..
+808600   NaN
+808600   NaN
+808600   NaN
+808600   NaN
+808600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+814300,"timestamp
+814300   NaN
+814300   NaN
+814300   NaN
+814300   NaN
+814300   NaN
+          ..
+814400   NaN
+814400   NaN
+814400   NaN
+814400   NaN
+814400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+853400,"timestamp
+853400   NaN
+853400   NaN
+853400   NaN
+853400   NaN
+853400   NaN
+          ..
+853500   NaN
+853500   NaN
+853500   NaN
+853500   NaN
+853500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+937800,"timestamp
+937800   NaN
+937800   NaN
+937800   NaN
+937800   NaN
+937800   NaN
+          ..
+937900   NaN
+937900   NaN
+937900   NaN
+937900   NaN
+937900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+964400,"timestamp
+964400   NaN
+964400   NaN
+964400   NaN
+964400   NaN
+964400   NaN
+          ..
+964500   NaN
+964500   NaN
+964500   NaN
+964500   NaN
+964500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+989200,"timestamp
+989200   NaN
+989200   NaN
+989200   NaN
+989200   NaN
+989200   NaN
+          ..
+989300   NaN
+989300   NaN
+989300   NaN
+989300   NaN
+989300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+999800,"timestamp
+999800   NaN
+999800   NaN
+999800   NaN
+999800   NaN
+999800   NaN
+          ..
+999900   NaN
+999900   NaN
+999900   NaN
+999900   NaN
+999900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+28100,"timestamp
+28100   NaN
+28100   NaN
+28100   NaN
+28100   NaN
+28100   NaN
+         ..
+28200   NaN
+28200   NaN
+28200   NaN
+28200   NaN
+28200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+178200,"timestamp
+178200   NaN
+178200   NaN
+178200   NaN
+178200   NaN
+178200   NaN
+          ..
+178300   NaN
+178300   NaN
+178300   NaN
+178300   NaN
+178300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+191900,"timestamp
+191900   NaN
+191900   NaN
+191900   NaN
+191900   NaN
+191900   NaN
+          ..
+192000   NaN
+192000   NaN
+192000   NaN
+192000   NaN
+192000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+225300,"timestamp
+225300   NaN
+225300   NaN
+225300   NaN
+225300   NaN
+225300   NaN
+          ..
+225400   NaN
+225400   NaN
+225400   NaN
+225400   NaN
+225400   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+320600,"timestamp
+320600   NaN
+320600   NaN
+320600   NaN
+320600   NaN
+320600   NaN
+          ..
+320700   NaN
+320700   NaN
+320700   NaN
+320700   NaN
+320700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+366500,"timestamp
+366500   NaN
+366500   NaN
+366500   NaN
+366500   NaN
+366500   NaN
+          ..
+366600   NaN
+366600   NaN
+366600   NaN
+366600   NaN
+366600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+374100,"timestamp
+374100   NaN
+374100   NaN
+374100   NaN
+374100   NaN
+374100   NaN
+          ..
+374200   NaN
+374200   NaN
+374200   NaN
+374200   NaN
+374200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+378600,"timestamp
+378600   NaN
+378600   NaN
+378600   NaN
+378600   NaN
+378600   NaN
+          ..
+378700   NaN
+378700   NaN
+378700   NaN
+378700   NaN
+378700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+393700,"timestamp
+393700   NaN
+393700   NaN
+393700   NaN
+393700   NaN
+393700   NaN
+          ..
+393800   NaN
+393800   NaN
+393800   NaN
+393800   NaN
+393800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+445800,"timestamp
+445800   NaN
+445800   NaN
+445800   NaN
+445800   NaN
+445800   NaN
+          ..
+445900   NaN
+445900   NaN
+445900   NaN
+445900   NaN
+445900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+486500,"timestamp
+486500   NaN
+486500   NaN
+486500   NaN
+486500   NaN
+486500   NaN
+          ..
+486600   NaN
+486600   NaN
+486600   NaN
+486600   NaN
+486600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+498600,"timestamp
+498600   NaN
+498600   NaN
+498600   NaN
+498600   NaN
+498600   NaN
+          ..
+498700   NaN
+498700   NaN
+498700   NaN
+498700   NaN
+498700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+507000,"timestamp
+507000   NaN
+507000   NaN
+507000   NaN
+507000   NaN
+507000   NaN
+          ..
+507100   NaN
+507100   NaN
+507100   NaN
+507100   NaN
+507100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+518200,"timestamp
+518200   NaN
+518200   NaN
+518200   NaN
+518200   NaN
+518200   NaN
+          ..
+518300   NaN
+518300   NaN
+518300   NaN
+518300   NaN
+518300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+521500,"timestamp
+521500   NaN
+521500   NaN
+521500   NaN
+521500   NaN
+521500   NaN
+          ..
+521600   NaN
+521600   NaN
+521600   NaN
+521600   NaN
+521600   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+523100,"timestamp
+523100   NaN
+523100   NaN
+523100   NaN
+523100   NaN
+523100   NaN
+          ..
+523200   NaN
+523200   NaN
+523200   NaN
+523200   NaN
+523200   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+529400,"timestamp
+529400   NaN
+529400   NaN
+529400   NaN
+529400   NaN
+529400   NaN
+          ..
+529500   NaN
+529500   NaN
+529500   NaN
+529500   NaN
+529500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+560800,"timestamp
+560800   NaN
+560800   NaN
+560800   NaN
+560800   NaN
+560800   NaN
+          ..
+560900   NaN
+560900   NaN
+560900   NaN
+560900   NaN
+560900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+581400,"timestamp
+581400   NaN
+581400   NaN
+581400   NaN
+581400   NaN
+581400   NaN
+          ..
+581500   NaN
+581500   NaN
+581500   NaN
+581500   NaN
+581500   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+598600,"timestamp
+598600   NaN
+598600   NaN
+598600   NaN
+598600   NaN
+598600   NaN
+          ..
+598700   NaN
+598700   NaN
+598700   NaN
+598700   NaN
+598700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+604600,"timestamp
+604600   NaN
+604600   NaN
+604600   NaN
+604600   NaN
+604600   NaN
+          ..
+604700   NaN
+604700   NaN
+604700   NaN
+604700   NaN
+604700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+644700,"timestamp
+644700   NaN
+644700   NaN
+644700   NaN
+644700   NaN
+644700   NaN
+          ..
+644800   NaN
+644800   NaN
+644800   NaN
+644800   NaN
+644800   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+653000,"timestamp
+653000   NaN
+653000   NaN
+653000   NaN
+653000   NaN
+653000   NaN
+          ..
+653100   NaN
+653100   NaN
+653100   NaN
+653100   NaN
+653100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+664600,"timestamp
+664600   NaN
+664600   NaN
+664600   NaN
+664600   NaN
+664600   NaN
+          ..
+664700   NaN
+664700   NaN
+664700   NaN
+664700   NaN
+664700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+693000,"timestamp
+693000   NaN
+693000   NaN
+693000   NaN
+693000   NaN
+693000   NaN
+          ..
+693100   NaN
+693100   NaN
+693100   NaN
+693100   NaN
+693100   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+720800,"timestamp
+720800   NaN
+720800   NaN
+720800   NaN
+720800   NaN
+720800   NaN
+          ..
+720900   NaN
+720900   NaN
+720900   NaN
+720900   NaN
+720900   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+726900,"timestamp
+726900   NaN
+726900   NaN
+726900   NaN
+726900   NaN
+726900   NaN
+          ..
+727000   NaN
+727000   NaN
+727000   NaN
+727000   NaN
+727000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+833200,"timestamp
+833200   NaN
+833200   NaN
+833200   NaN
+833200   NaN
+833200   NaN
+          ..
+833300   NaN
+833300   NaN
+833300   NaN
+833300   NaN
+833300   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+878900,"timestamp
+878900   NaN
+878900   NaN
+878900   NaN
+878900   NaN
+878900   NaN
+          ..
+879000   NaN
+879000   NaN
+879000   NaN
+879000   NaN
+879000   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+885600,"timestamp
+885600   NaN
+885600   NaN
+885600   NaN
+885600   NaN
+885600   NaN
+          ..
+885700   NaN
+885700   NaN
+885700   NaN
+885700   NaN
+885700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
+964600,"timestamp
+964600   NaN
+964600   NaN
+964600   NaN
+964600   NaN
+964600   NaN
+          ..
+964700   NaN
+964700   NaN
+964700   NaN
+964700   NaN
+964700   NaN
+Name: mid_price, Length: 2070, dtype: float64"
