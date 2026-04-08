@@ -20,6 +20,9 @@ Hi, I appreciate your time having a look at my work. Here is a brief introductio
 * Used extensive object oriented programming in Python.
 * Placed 9th in the UK, 1% in the world.
 
+### **Quant Hackathon QuantChallenge2025**
+* Created an ensemble model that predicted returns based on 14 datastreams.
+* Placed 1st globally, the model achieved an R^2 of 0.7249.
 ---
 
 ## 💻 Coding
